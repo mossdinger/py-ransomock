@@ -1,11 +1,13 @@
+### For Educational Purpose Only
+
 # Ransomock
 Ransomock is a tool used for mocking windows ransomware behavior written in python3  
   
 To run this tool, use the following command  
-` python3 ./Ransomock.py`
+` python3 ./ransomock.py`
 
 Configurations can be edited in config.json  
-**Please only use demo mode in the current version, as it is not tested on real machine yet**  
+**Please only use demo mode in the current version, as the non-demo mode is not tested on real machine yet**  
 With Demo mode enabled, Ransomock will only encrypt/decrypt files in Desktop\demo folder
 
 
