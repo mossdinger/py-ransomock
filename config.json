@@ -1,0 +1,19 @@
+{
+    "isDemo": "True",
+    "enableC2": "False",
+    "deleteShadows": "False",
+    "mode": "decrypt",
+    "seed": "seed_01",
+    "file_extensions": [
+        ".txt",
+        ".docx",
+        ".xlsx",
+        ".docm"
+    ],
+    "path_exclusions": [
+        "C:\\Windows\\",
+        "C:\\pagefile.sys",
+        "C:\\System Volume Information",
+        "C:\\Program Files\\RUXIM"
+    ]
+}
