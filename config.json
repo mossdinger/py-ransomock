@@ -2,7 +2,7 @@
     "isDemo": "True",
     "enableC2": "False",
     "deleteShadows": "False",
-    "mode": "decrypt",
+    "mode": "-",
     "seed": "seed_01",
     "file_extensions": [
         ".txt",

@@ -1,6 +1,6 @@
 ### For Educational Purpose Only
 
-# Ransomock
+# [WIP] Ransomock
 Ransomock is a tool used for mocking windows ransomware behavior written in python3  
   
 To run this tool, use the following command  
